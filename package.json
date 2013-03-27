@@ -1,12 +1,10 @@
 {
-  "name": "application-name",
-  "version": "0.0.1",
-  "private": true,
-  "scripts": {
-    "start": "node app"
-  },
-  "dependencies": {
-    "express": "3.1.0",
-    "jade": "*"
-  }
+    "name": "dazzle",
+    "description": "Dazzle is a simple Dota 2 Api Wrapper for Node",
+    "version": "0.1.0",
+    "main": "./dazzle",
+    "private": true,
+    "dependencies": {
+        "request": "2.16.6"
+    }
 }
