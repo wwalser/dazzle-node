@@ -1,0 +1,9 @@
+{
+    "steamApiKey": "",
+    "steamApiVersion": 1,
+    "steamApiProtocol": "http://",
+    "format": "json",
+    "steamApiHost": "api.steampowered.com",
+    "throttle": 5000,
+    "locale": "en_us"
+}

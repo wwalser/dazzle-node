@@ -1,0 +1,10 @@
+{
+    "name": "dota2-api",
+    "description": "Node API wrapper for the Dota 2 Api",
+    "version": "0.0.6",
+    "main": "./dota2-api-module",
+    "private": true,
+    "dependencies": {
+        "request": "2.16.6"
+    }
+}
