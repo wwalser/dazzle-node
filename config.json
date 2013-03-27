@@ -3,6 +3,5 @@
     "steamApiProtocol": "http://",
     "format": "json",
     "steamApiHost": "api.steampowered.com",
-    "throttle": 5000,
-    "locale": "en_us"
+    "language": "en_us"
 }
