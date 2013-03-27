@@ -4,7 +4,7 @@ Dazzle is a lightweight, easy-to-use API client for the Dota 2 WebAPI [http://wi
 
 Installation
 -----------
-    npm-install dazzle
+    npm install dazzle
     
 Requirements
 ------------
