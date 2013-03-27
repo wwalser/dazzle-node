@@ -1,8 +1,8 @@
 {
-    "name": "dota2-api",
-    "description": "Node API wrapper for the Dota 2 Api",
-    "version": "0.0.6",
-    "main": "./dota2-api-module",
+    "name": "dazzle",
+    "description": "Dazzle is a simple Dota 2 Api Wrapper for Node",
+    "version": "0.1.0",
+    "main": "./dazzle",
     "private": true,
     "dependencies": {
         "request": "2.16.6"
