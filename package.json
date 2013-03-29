@@ -1,7 +1,7 @@
 {
   "name": "dazzle",
   "description": "Dazzle is a simple Dota 2 Api Wrapper for Node",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "./dazzle",
   "dependencies": {}
 }
