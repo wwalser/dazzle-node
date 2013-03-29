@@ -9,7 +9,7 @@ Installation
     
 Requirements
 ------------
-    Get a Steam API key at [http://steamcommunity.com/dev/apikey](http://steamcommunity.com/dev/apikey)
+    Get a Steam API key at http://steamcommunity.com/dev/apikey
 
 Usage & Examples
 -----------
