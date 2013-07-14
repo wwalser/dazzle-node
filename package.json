@@ -6,7 +6,7 @@
     "url": "http://twitter.com/jamielottering"
   },
   "description": "Dazzle is a simple Dota 2 Api Wrapper for Node",
-  "version": "1.0.4",
+  "version": "2.0.0",
   "main": "./dazzle",
   "repository": {
     "type": "git",
